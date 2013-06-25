@@ -1,6 +1,6 @@
 # Ignore the following directories/file extensions
 
-Libary
+Library
 Temp
 Thumbs.db
 *.exe
